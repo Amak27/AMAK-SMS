@@ -1,0 +1,6 @@
+{
+  "name": "School Management System",
+  "description": "A high-fidelity Ugandan school management and academic report system supporting Nursery, Primary, and Secondary grading systems, automatic Uneb aggregate and division calculations, Gemini-drafted teacher comments, and printable report cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
